@@ -5,7 +5,7 @@
 
 * [Survey Papers](#survey-papers)
 * [Research Papers](#research-papers)
-* [lated Research Papers](#related-research-papers)  
+* [Related Research Papers](#related-research-papers)  
 * [Datasets](#datasets)  
 * [Tutorials](#tutorials)
 
