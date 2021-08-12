@@ -113,7 +113,6 @@ BOL: [Bag-of-Lies: A Multimodal Dataset for Deception Detection](https://openacc
 
 Real Life Trial Dataset: [Deception Detection using Real-life Trial Data](http://web.eecs.umich.edu/~mihalcea/papers/perezrosas.icmi15.pdf), [[download]](https://web.eecs.umich.edu/~mihalcea/downloads.html#RealLifeDeception)
 
-YouTube-8: [Predicting Emotions in User-Generated Videos](http://www.yugangjiang.info/publication/aaai14-emotions.pdf), [[download]](https://drive.google.com/folderview?id=0B5peJ1MHnIWGd3pFbzMyTG5BSGs&usp=sharing), [[webpage]](http://www.yugangjiang.info/research/VideoEmotions/index.html)
 
 
 ## Tutorials
