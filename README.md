@@ -109,9 +109,9 @@
 [Split and Attentive-Aggregated Learnable Shift Module for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3426826.3426836?casa_token=osYSvyWvYFgAAAAA:xTwl-phSC82_rbX6vztvAQSAiZOlH_4ZB30PYaMtusergdqOH9-oAZWd-VeiTeUlRSsGaB0z56ACJw), ICML 2020
 
 ## Datasets
-[Bag-of-Lies: A Multimodal Dataset for Deception Detection](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf), CVPRW 2019 [data](http://iab-rubric.org/resources/BagLies.html)
-
-
+BOL: [Bag-of-Lies: A Multimodal Dataset for Deception Detection](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf), CVPRW 2019 [data](http://iab-rubric.org/resources/BagLies.html), [[download]](https://web.eecs.umich.edu/~mihalcea/downloads.html#multimodalDialogDeception)
+Real Life Trial Dataset: [Deception Detection using Real-life Trial Data](http://web.eecs.umich.edu/~mihalcea/papers/perezrosas.icmi15.pdf), [[download]](https://web.eecs.umich.edu/~mihalcea/downloads.html#RealLifeDeception)
+YouTube-8: [Predicting Emotions in User-Generated Videos](http://www.yugangjiang.info/publication/aaai14-emotions.pdf), [[download]](https://drive.google.com/folderview?id=0B5peJ1MHnIWGd3pFbzMyTG5BSGs&usp=sharing), [[webpage]](http://www.yugangjiang.info/research/VideoEmotions/index.html)
 
 
 ## Tutorials
