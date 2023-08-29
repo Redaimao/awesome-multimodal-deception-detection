@@ -42,6 +42,7 @@
 [Multimodal Political Deception Detection](https://ieeexplore.ieee.org/abstract/document/9310253/), MM 2021
 
 [LieNet: A deep convolution neural network framework for detecting deception](https://ieeexplore.ieee.org/abstract/document/9446553), TCDS 2021
+
 [Introducing representations of facial affect in automated multimodal deception detection](https://arxiv.org/pdf/2008.13369), ICMI 2020
 
 [Emotion Transformation Feature: Novel Feature For Deception Detection In Videos](https://ieeexplore.ieee.org/abstract/document/9190846/), ICIP 2020
