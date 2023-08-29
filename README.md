@@ -97,6 +97,7 @@
 
 
 [Deception detection using a multimodal approach](http://web.eecs.umich.edu/~mihalcea/papers/abouelenien.icmi14.pdf), ICMI 2014
+
 [Automatic deception detection in italian court cases](https://www.researchgate.net/publication/257520637_Automatic_deception_detection_in_Italian_court_cases), Artificial intelligence
 and law 2013
 
