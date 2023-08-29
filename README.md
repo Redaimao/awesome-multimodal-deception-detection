@@ -29,7 +29,7 @@
 
 [Deception Detection in Videos Using Robust Facial Features](https://link.springer.com/chapter/10.1007/978-3-030-63092-8_45)
 
-[Multimodal Deception Detection in Videos via Analyzing Emotional State-based Feature](https://arxiv.org/abs/2104.08373), 2021, ArXiv
+[comment]: <> ([Multimodal Deception Detection in Videos via Analyzing Emotional State-based Feature]&#40;https://arxiv.org/abs/2104.08373&#41;, 2021, ArXiv)
 
 [Event correlation for deception detection in long video](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/116050E/Event-correlation-for-deception-detection-in-long-video/10.1117/12.2586819.short) ICMV 2021
 
@@ -41,6 +41,8 @@
 
 [Multimodal Political Deception Detection](https://ieeexplore.ieee.org/abstract/document/9310253/), MM 2021
 
+[LieNet: A deep convolution neural network framework for detecting deception](https://ieeexplore.ieee.org/abstract/document/9446553), TCDS 2021
+[Introducing representations of facial affect in automated multimodal deception detection](https://arxiv.org/pdf/2008.13369), ICMI 2020
 
 [Emotion Transformation Feature: Novel Feature For Deception Detection In Videos](https://ieeexplore.ieee.org/abstract/document/9190846/), ICIP 2020
 
@@ -95,24 +97,47 @@
 
 
 [Deception detection using a multimodal approach](http://web.eecs.umich.edu/~mihalcea/papers/abouelenien.icmi14.pdf), ICMI 2014
-
+[Automatic deception detection in italian court cases](https://www.researchgate.net/publication/257520637_Automatic_deception_detection_in_Italian_court_cases), Artificial intelligence
+and law 2013
 
 [Motion Profiles for Deception Detection Using Visual Cues](https://www.researchgate.net/profile/Judee_Burgoon/publication/221305092_Motion_Profiles_for_Deception_Detection_Using_Visual_Cues/links/53d659ff0cf220632f3d9a31.pdf), ECCV 2010
 
 
+[Combining prosodic lexical and cepstral systems for deceptive speech detection](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c1e0c1356972303ba5bcd1f0173efd9c099fbb2), ICASSP 2006
+
+[Distinguishing deceptive from non-deceptive speech](https://academiccommons.columbia.edu/doi/10.7916/D81G0VMK/download) 2005
+
+
+
+
 ## Related Research Papers
-### Action Recognition
-[TEINet: Towards an Efficient Architecture for Video Recognition](https://arxiv.org/pdf/1911.09435.pdf), AAAI 2020
 
-[STH: Spatio-Temporal Hybrid Convolution for Efficient Action Recognition](https://arxiv.org/pdf/2003.08042.pdf), 2020 ArXiv
+[Openface: A general-purpose face recognition library with mobile applications](http://reports-archive.adm.cs.cmu.edu/anon/2016/CMU-CS-16-118.pdf?ref=https://githubhelp.com), Openface Report
 
-[Split and Attentive-Aggregated Learnable Shift Module for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3426826.3426836?casa_token=osYSvyWvYFgAAAAA:xTwl-phSC82_rbX6vztvAQSAiZOlH_4ZB30PYaMtusergdqOH9-oAZWd-VeiTeUlRSsGaB0z56ACJw), ICML 2020
+[wav2vec 2.0: A framework for self-supervised learning of speech representations](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf), NeurIPS 2020
+
+[Opensmile: the munich versatile and fast open-source audio feature extractor](https://www.researchgate.net/publication/224929655_openSMILE_--_The_Munich_Versatile_and_Fast_Open-Source_Audio_Feature_Extractor), ACM MM 2010
+
+[Cues to Deception](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/14941/DePauloEtAl.Cues%20to%20Deception.pdf?sequence=1), Psychological bulletin 2003
+
+[Detecting deception from emotional and unemotional cues](http://academic.kellogg.edu/talbots/Course%20docs/Psych%20201%2006/detecting%20deception%20from%20emotional%20cues.pdf), Journal of Nonverbal Behavior 2009
+
+
+[comment]: <> (### Action Recognition)
+
+[comment]: <> ([TEINet: Towards an Efficient Architecture for Video Recognition]&#40;https://arxiv.org/pdf/1911.09435.pdf&#41;, AAAI 2020)
+
+[comment]: <> ([STH: Spatio-Temporal Hybrid Convolution for Efficient Action Recognition]&#40;https://arxiv.org/pdf/2003.08042.pdf&#41;, 2020 ArXiv)
+
+[comment]: <> ([Split and Attentive-Aggregated Learnable Shift Module for Video Action Recognition]&#40;https://dl.acm.org/doi/abs/10.1145/3426826.3426836?casa_token=osYSvyWvYFgAAAAA:xTwl-phSC82_rbX6vztvAQSAiZOlH_4ZB30PYaMtusergdqOH9-oAZWd-VeiTeUlRSsGaB0z56ACJw&#41;, ICML 2020)
 
 ## Datasets
 BOL: [Bag-of-Lies: A Multimodal Dataset for Deception Detection](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf), CVPRW 2019 [data](http://iab-rubric.org/resources/BagLies.html), [[download]](https://web.eecs.umich.edu/~mihalcea/downloads.html#multimodalDialogDeception)
 
 Real Life Trial Dataset: [Deception Detection using Real-life Trial Data](http://web.eecs.umich.edu/~mihalcea/papers/perezrosas.icmi15.pdf), [[download]](https://web.eecs.umich.edu/~mihalcea/downloads.html#RealLifeDeception)
 
+MU3D: [Miami university deception detection database](https://link.springer.com/article/10.3758/s13428-018-1061-4), [[download]](https://sc.lib.miamioh.edu/handle/2374.MIA/6067)
 
+DDPM:[Deception detection and remote physiological monitoring: A dataset and baseline experimental results](https://arxiv.org/pdf/2106.06583), IJCB 2021, [[download]](https://cvrl.nd.edu/projects/data/#deception-detection-and-physiological-monitoringddpm)
 
 ## Tutorials
